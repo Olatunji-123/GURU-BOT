@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['2349073882413', 'ENYINNAYA', true]
-  [''] 
+  ['2348165262297', 'POA', true] 
 ] //Number of owners
 
-global.mods = ['2349073882413','2349037805239'] 
-global.prems = ['2349073882413']
+global.mods = ['2349073882413','2348165262297'] 
+global.prems = ['2349073882413', '2348165262297']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -46,9 +46,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'FRESHIE'
+global.botname = 'POAßøt'
 global.premium = 'true'
-global.packname = 'ENYINNAYA┃ᴮᴼᵀ' 
+global.packname = 'POA┃ᴮᴼᵀ' 
 global.author = '@ENYINNAYA' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
